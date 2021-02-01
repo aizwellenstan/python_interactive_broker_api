@@ -4,6 +4,9 @@
 3.```console 
 setx /m JAVA_HOME "C:\ProgramFiles\RedHat\java-1.8.0-openjdk-1.8.0.232-3"
 ```
-4 .```console
+4.```console
 pip install -e .
 ```
+
+5. download client portal
+https://www.interactivebrokers.com.au/en/index.php?f=40022#client-portal-api
