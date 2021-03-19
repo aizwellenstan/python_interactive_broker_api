@@ -1,3 +1,4 @@
+# ! register IB https://ibkr.com/referral/zhenwei375
 1. Install Jdk
 (https://developers.redhat.com/download-manager/file/java-1.8.0-openjdk-1.8.0.242-3.b08.redhat.windows.x86_64.msi)
 2. cmdは管理者どして実行
